@@ -1,0 +1,8 @@
+node_modules/
+client/node_modules/
+
+# Environment variable files
+.env
+
+# React build output folder
+client/build/
