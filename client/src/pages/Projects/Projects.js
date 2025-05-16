@@ -42,7 +42,7 @@ const Projects = () => {
             <div className="col-md-4">
               <div className="card rounded">
                 <div className="card-image">
-                  <img src="/CollabDrawing.JPG" alt="project2" />
+                  <img src="CollabDrawing.jpg" alt="project2" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
                   <span className="card-detail-badge">React</span>
@@ -68,7 +68,7 @@ const Projects = () => {
             <div className="col-md-4">
               <div className="card rounded">
                 <div className="card-image">
-                  <img src="/FruitsSlotMachine.JPG" alt="project3" />
+                  <img src="FruitsSlotMachine.jpg" alt="project3" />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
                   <span className="card-detail-badge">Node</span>
