@@ -5,4 +5,4 @@ client/node_modules/
 .env
 
 # React build output folder
-client/build/
+
